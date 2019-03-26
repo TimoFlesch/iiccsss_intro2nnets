@@ -4,6 +4,6 @@ Teaching material for my 2h course on neural networks
 * **code**  
 contains code examples implemented as iPython notebooks
 
-* **slides** 
+* **slides**   
 lecture slides
 
