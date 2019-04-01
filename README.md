@@ -5,12 +5,12 @@ Teaching material for my 2h course on neural networks, presented at the Internat
 The course introduces artificial neural networks as composition of linear and nonlinear functions:
 1. Maths Refresher (Calculus)
 2. Basics 
-  1. Linear Regression
-  2. Logistic Regression
-  3. (Stochastic) Gradient Descent 
+    1. Linear Regression
+    2. Logistic Regression
+    3. (Stochastic) Gradient Descent 
 3. Neural Networks 
-  1. Architecture
-  2. Backpropagation Algorithm
+    1. Architecture
+    2. Backpropagation Algorithm
   
 I provide code examples in python for each of the sections (except for the maths refresher, obviously)
 
