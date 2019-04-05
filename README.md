@@ -1,5 +1,5 @@
 # Introduction to Neural Networks
-Teaching material for a 2h course on neural networks I gave at the International Interdisciplinary Computational Cognitive Science Spring School in Freiburg, 2019 (http://iiccsss.eu/)   
+Teaching material for a 2h course on neural networks I gave at the International Interdisciplinary Computational Cognitive Science Spring School in Freiburg, 2019 (http://iiccsss.org/)   
 
 ### contents 
 The course introduces artificial neural networks as composition of linear and nonlinear functions:
