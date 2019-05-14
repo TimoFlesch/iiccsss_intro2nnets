@@ -1,9 +1,9 @@
-# Introduction to Neural Networks
-Teaching material for a 2h course on neural networks I gave at the International Interdisciplinary Computational Cognitive Science Spring School in Freiburg, 2019 (http://iiccsss.org/)   
+# Introduction to Artificial Neural Networks and Gradient Descent
+Teaching material for an advanced 2h course on neural networks I gave at the International Interdisciplinary Computational Cognitive Science Spring School in Freiburg, 2019 (http://iiccsss.org/)   
 
-### contents 
-The course introduces artificial neural networks as composition of linear and nonlinear functions:
-1. Maths Refresher (Calculus)
+### Contents 
+The course introduces artificial neural networks as composition of linear and nonlinear functions and is divided into three sections:
+1. Maths Refresher
 2. Basics 
     1. Linear Regression
     2. Logistic Regression
@@ -12,9 +12,9 @@ The course introduces artificial neural networks as composition of linear and no
     1. Architecture
     2. Backpropagation Algorithm
   
-I provide code examples in python for each of the sections (except for the maths refresher, obviously)
+I provide code examples in Python for the second and third section
 
-### material
+### Material
 * **code**  
 contains code examples implemented as iPython notebooks
 
@@ -22,5 +22,5 @@ contains code examples implemented as iPython notebooks
 lecture slides
 
 
-### contact 
-If you spot typos or would like to use the material, send me an email (firstname (dot) lastname (at) psy (dot) ox (dot) ac (dot) uk)
+### Contact 
+If you spot typos, have suggestions or would like to use the material, send me an email (firstname (dot) lastname (at) psy (dot) ox (dot) ac (dot) uk)
