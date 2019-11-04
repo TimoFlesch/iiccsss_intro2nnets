@@ -17,6 +17,7 @@ I provide code examples in Python for the second and third section
 ### Material
 * **code**  
 contains code examples implemented as iPython notebooks
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/TimoFlesch/iiccsss_intro2nnets/master)  
 
 * **slides**   
 lecture slides
