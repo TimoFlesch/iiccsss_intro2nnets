@@ -1,5 +1,7 @@
 # Introduction to Artificial Neural Networks and Gradient Descent
-Teaching material for an advanced 2h course on neural networks I gave at the International Interdisciplinary Computational Cognitive Science Spring School in Freiburg, 2019 (http://iiccsss.org/)   
+Teaching material for an advanced 2h course on neural networks I gave at the International Interdisciplinary Computational Cognitive Science Spring School in Freiburg, 2019 (http://iiccsss.org/)     
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/TimoFlesch/iiccsss_intro2nnets/master)    
 
 ### Contents 
 The course introduces artificial neural networks as composition of linear and nonlinear functions and is divided into three sections:
@@ -17,7 +19,7 @@ I provide code examples in Python for the second and third section
 ### Material
 * **code**  
 contains code examples implemented as iPython notebooks
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/TimoFlesch/iiccsss_intro2nnets/master)  
+
 
 * **slides**   
 lecture slides
